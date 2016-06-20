@@ -8,6 +8,7 @@ public class DataStorage {
 	//数据存储
 	private static Map<String, Object> container = new ConcurrentHashMap<String, Object>();
 
+	
 	/**
 	 * 添加数据
 	 * @param value 数据
